@@ -1,5 +1,5 @@
 ><a href="https://vlb-parallax-scroll-effect.netlify.app/" target="_blank">See this code running on your web</a></br>
-><a href="https://github.com/stars/VictorlBueno/lists/design" target="_blank">See more design codes</a>
+><a href="https://github.com/stars/VictorlBueno/lists/front-end" target="_blank">See more design codes</a>
 
 # Parallax Scroll Effect ✨
 Parallax scrolling is a technique in computer graphics where background images move more slowly than foreground images, creating an illusion of depth in a 2D scene and increasing the feeling of immersion in the virtual experience.
